@@ -1,0 +1,8 @@
+Our communication interface will be in file handling in which we shall use the file to retrieve data on user demand.
+
+Specifications
+There will be one file in which the data of book is stored.
+The file will have the data stored in the form of strings
+Format: Book_name|Book_author|Book_ISBN  
+
+The pipes will be used to separate the fields.
