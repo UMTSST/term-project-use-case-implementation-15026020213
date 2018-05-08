@@ -1,0 +1,7 @@
+C:\Users\Ramis Khawaja\Desktop\UserCase\UserCase\bin\Debug\UserCase.exe.config
+C:\Users\Ramis Khawaja\Desktop\UserCase\UserCase\bin\Debug\UserCase.exe
+C:\Users\Ramis Khawaja\Desktop\UserCase\UserCase\bin\Debug\UserCase.pdb
+C:\Users\Ramis Khawaja\Desktop\UserCase\UserCase\obj\Debug\UserCase.csprojResolveAssemblyReference.cache
+C:\Users\Ramis Khawaja\Desktop\UserCase\UserCase\obj\Debug\UserCase.csproj.CoreCompileInputs.cache
+C:\Users\Ramis Khawaja\Desktop\UserCase\UserCase\obj\Debug\UserCase.exe
+C:\Users\Ramis Khawaja\Desktop\UserCase\UserCase\obj\Debug\UserCase.pdb
